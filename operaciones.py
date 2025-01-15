@@ -13,5 +13,6 @@ division = a / b
 #Impresion de resultados
 print ("La suma de a y b es: ", suma)
 print ("la resta de a y b es: ", resta)
-print ("la multipliacion de a y b ", multiplicacion)
+print ("la multipliacion de a y b: ", multiplicacion)
 print ("la division de a y b es : ", division)
+
